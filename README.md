@@ -7,7 +7,7 @@ Instrucciones de ejemplos:
 
 3-Ejecutar el programa: ir a la opción de "ver" seguido en "terminal". Dentro de la terminal ejecutar el comando:
 
-nmp start
+  npm start
 
 La consola mostrará:
 
