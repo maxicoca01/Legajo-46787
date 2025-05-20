@@ -3,7 +3,7 @@ Instrucciones de ejemplos:
 
 1- Coloca el texto a analizar dentro del archivo input.txt.
 
-2-Para realizar pruebas, copia el contenido de cualquiera de los archivos "Prueba_correcta.txt" o "Prueba_incorrecta.txt" y pégalo dentro de input.txt.
+2-Para realizar pruebas, copia el contenido de cualquiera de los archivos "Prueba_correcta.txt" o "Prueba_mal.txt" y pégalo dentro de input.txt.
 
 3-Ejecutar el programa: ir a la opción de "ver" seguido en "terminal". Dentro de la terminal ejecutar el comando:
 
